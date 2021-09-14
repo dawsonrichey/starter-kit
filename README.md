@@ -9,6 +9,11 @@
 ## Instructions
 
 
+
+
+## Information - README Syntax
+[SOURCE](https://guides.github.com/features/mastering-markdown/)
+
 ## Tasks List
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -53,4 +58,5 @@ Content in the first column | Content in the second column
 
 ### Emojis
 [Source](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 :frog:
